@@ -1,0 +1,3 @@
+[submodule "conditional_append"]
+	path = conditional_append
+	url = https://gist.github.com/parkershamblin/dbea6dd76c55a10080cb166170128ca5
