@@ -1,3 +1,6 @@
 [submodule "conditional_append"]
 	path = conditional_append
 	url = https://gist.github.com/parkershamblin/dbea6dd76c55a10080cb166170128ca5
+[submodule "sign_of_number"]
+	path = sign_of_number
+	url = https://gist.github.com/f24babb8786497e9018f2bdf7f41ac52.git
