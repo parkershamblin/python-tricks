@@ -7,3 +7,6 @@
 [submodule "class_attribute_reference_warning"]
 	path = class_attribute_reference_warning
 	url = https://gist.github.com/bb9ec627c9a47da0e17298087c24bd60.git
+[submodule "sign_of_number2.py"]
+	path = sign_of_number2.py
+	url = https://gist.github.com/bd878671a62f3696ce39d03dda3c4098.git
