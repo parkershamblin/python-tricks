@@ -10,3 +10,6 @@
 [submodule "class_attribute_reference_warning"]
 	path = class_attribute_reference_warning
 	url = https://gist.github.com/bb9ec627c9a47da0e17298087c24bd60.git
+[submodule "signed_binary_number.md"]
+	path = signed_binary_number.md
+	url = https://gist.github.com/848e77804ef738978e6d5cfbee552a83.git
